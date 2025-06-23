@@ -1,0 +1,24 @@
+Step - 4:- Analysis
+
+Time Complexity (HashMap-based):
+
+Add: O(1) — Inserting into a HashMap.
+
+Update: O(1) — Accessing and modifying via key.
+
+Delete: O(1) — Removal by key.
+
+Search/Get: O(1) — Direct lookup by productId.
+
+Optimizations:
+
+If memory is a concern and data is large, consider:
+
+Using a database for persistent and scalable storage.
+
+Indexing for fast queries.
+
+ConcurrentHashMap for thread-safe operations in multi-threaded environments.
+
+For frequent sorted queries, consider TreeMap (O(log n) operations, but maintains order).
+
