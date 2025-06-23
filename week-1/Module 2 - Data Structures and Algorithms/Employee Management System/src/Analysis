@@ -1,0 +1,22 @@
+Step-4:- Analysis
+
+-> Time Complexity
+Operation	Time Complexity
+Add	O(1) (at end)
+Search	O(n)
+Traverse	O(n)
+Delete	O(n) (shift required)
+
+-> Limitations of Arrays:
+Fixed size — resizing requires copying to a new array.
+
+Costly deletions/insertions — requires shifting elements.
+
+Wasted space if array isn’t fully used.
+
+-> When to Use Arrays:
+When size is known in advance and doesn’t change often.
+
+When you need fast access by index.
+
+When memory layout matters (e.g., cache performance).

@@ -1,0 +1,14 @@
+-> Array in Memory:
+Arrays are contiguous blocks of memory where each element can be accessed using an index.
+
+The address of any element can be found using:
+
+"Address = Base + (Index × Size_of_element)"
+
+
+-> Advantages:
+Fast access (O(1)) using index.
+
+Simple to implement and use.
+
+Memory efficient for fixed-size datasets.
