@@ -1,0 +1,33 @@
+Step-1 Understanding Sorting Algorithms:
+
+1. Bubble Sort
+-> Description: Repeatedly steps through the list, compares adjacent items, and swaps them if they are in the wrong order.
+
+-> Time Complexity:
+
+Best: O(n)
+
+Average/Worst: O(n²)
+
+2. Insertion Sort
+-> Description: Builds the final sorted list one item at a time.
+
+-> Time Complexity:
+
+Best: O(n)
+
+Average/Worst: O(n²)
+
+3. Quick Sort
+-> Description: A divide-and-conquer algorithm. Picks a pivot, partitions array, then recursively sorts.
+
+-> Time Complexity:
+
+Best/Average: O(n log n)
+
+Worst: O(n²) (rare with good pivot)
+
+4. Merge Sort
+-> Description: Recursively divides the list into halves and merges them in sorted order.
+
+-> Time Complexity: Always O(n log n)

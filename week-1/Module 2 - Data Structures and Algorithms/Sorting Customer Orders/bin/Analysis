@@ -1,0 +1,13 @@
+Step-4: Analysis
+
+-> Time Complexity Comparison
+Algorithm	    Best	        Average	        Worst
+Bubble Sort	    O(n)	        O(n²)	        O(n²)
+Quick Sort	    O(n log n)	    O(n log n)	    O(n²) (rare)
+
+-> Why Quick Sort is Preferred:
+Faster in practice due to fewer swaps and better use of memory cache.
+
+Bubble sort is easy to implement but very slow on large datasets.
+
+Quick sort is efficient and widely used in production environments.
