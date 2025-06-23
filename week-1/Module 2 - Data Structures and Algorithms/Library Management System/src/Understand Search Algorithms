@@ -1,0 +1,21 @@
+Step-1:- Understand Search Algorithms
+-> Linear Search:
+Scans each element one by one.
+
+Does not require sorted data.
+
+Time Complexity:
+
+Best Case: O(1)
+
+Worst Case: O(n)
+
+->Book Binary Search:
+Divides the array in half each step.
+
+Requires sorted data.
+
+Time Complexity:
+
+Best/Average/Worst: O(log n)
+

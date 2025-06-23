@@ -1,0 +1,18 @@
+Step-4:- Analysis
+-> Time Complexity Comparison
+Algorithm	Best Case	Average/Worst Case
+Linear Search	O(1)	O(n)
+Binary Search	O(1)	O(log n)
+
+-> When to Use Each Algorithm
+Linear Search:
+
+Best for unsorted or small datasets.
+
+Simple to implement.
+
+Binary Search:
+
+Best for large, sorted datasets.
+
+More efficient but requires sorting beforehand.
