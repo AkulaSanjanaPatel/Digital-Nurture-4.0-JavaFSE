@@ -1,0 +1,16 @@
+Step-1:- Understand Recursive Algorithms
+-> What is Recursion?
+A recursive algorithm calls itself to solve a smaller instance of the problem.
+
+Each recursive call reduces the problem size until a base case is met.
+
+-> Why Use Recursion?
+It simplifies problems that have repetitive substructure like:
+
+Computing compound interest
+
+Tree traversal
+
+Fibonacci series
+
+Often more elegant and readable, though can be less efficient without optimization.

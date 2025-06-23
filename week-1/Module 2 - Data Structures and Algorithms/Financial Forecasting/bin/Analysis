@@ -1,0 +1,15 @@
+Step-4:- Analysis
+-> Time Complexity
+Version	Time    Complexity
+Recursive	    O(n)
+Memoized	    O(n)
+
+Even though both are O(n), memoization avoids redundant recursive calls, especially useful if the function is called repeatedly with overlapping subproblems (like in Fibonacci).
+
+-> Optimization Techniques
+Memoization: Store previously computed values to avoid recomputation.
+
+Iterative Approach: Convert to loop-based method for better control of stack and memory.
+
+Tail Recursion (if language/compiler supports optimization).
+
