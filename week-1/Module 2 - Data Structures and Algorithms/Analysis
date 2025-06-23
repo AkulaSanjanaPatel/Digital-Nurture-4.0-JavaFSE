@@ -1,0 +1,17 @@
+Step-4:- Analysis
+
+-> Time Complexity
+Algorithm	Time Complexity
+Linear Search	O(n)
+Binary Search	O(log n)
+
+Linear search is simple but slow for large datasets.
+
+Binary search is faster but requires the data to be sorted first.
+
+-> Which Is More Suitable?
+For small or unsorted datasets, linear search is fine.
+
+For large, sorted product lists, binary search is preferred.
+
+In real-world platforms, search is often powered by indexes, hash maps, or search engines like Elasticsearch for high-speed performance.

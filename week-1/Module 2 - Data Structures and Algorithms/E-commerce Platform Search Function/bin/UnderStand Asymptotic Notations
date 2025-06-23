@@ -1,0 +1,20 @@
+Step - 1: Understand Asymptotic Notation
+
+What is Big O Notation?
+Big O describes the upper bound of time or space complexity of an algorithm.
+
+It helps developers predict how the algorithm will perform as the input size n grows.
+
+Example:
+
+O(1) – constant time (best case)
+
+O(n) – linear time (e.g., linear search)
+
+O(log n) – logarithmic time (e.g., binary search)
+
+Best, Average, and Worst Case (for Search):
+
+Algorithm	    Best Case	            Average Case	    Worst Case
+Linear Search	O(1) (first element)	O(n/2) ≈ O(n)	    O(n)
+Binary Search	O(1) (middle element)	O(log n)	        O(log n)
