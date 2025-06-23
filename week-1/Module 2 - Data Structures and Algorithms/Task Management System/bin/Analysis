@@ -1,0 +1,15 @@
+Step-4:- Analysis
+-> Time Complexity
+Operation	Time Complexity
+Add	O(n) (to end)
+Search	O(n)
+Traverse	O(n)
+Delete	O(n)
+
+-> Advantages of Linked Lists Over Arrays
+Dynamic Size: Easily grow or shrink without resizing.
+
+Efficient Insert/Delete: No need to shift elements.
+
+Flexible Memory Usage: No memory waste like arrays with preallocated space.
+

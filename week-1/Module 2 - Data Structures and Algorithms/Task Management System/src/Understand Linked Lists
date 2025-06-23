@@ -1,0 +1,11 @@
+Step-1:- Understand Linked Lists
+-> Types of Linked Lists:
+Type	Description
+Singly Linked List	Each node points to the next node. Traversal is forward-only.
+Doubly Linked List	Each node has pointers to both next and previous nodes. Allows bidirectional traversal.
+
+-> Linked List vs Array
+Feature	                Array	                Linked List
+Size	                Fixed (or resized)	    Dynamic
+Insertion/Deletion	    Costly (O(n))	        Efficient (O(1) at head)
+Access by Index	        O(1)	                O(n)
