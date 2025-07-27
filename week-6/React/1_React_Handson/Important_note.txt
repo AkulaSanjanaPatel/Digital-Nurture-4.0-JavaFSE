@@ -1,5 +1,6 @@
 Dear Sir/Mam,
 
-	Because of so many files in creating the react app the git is not supporting to upload all the files and folders related to the react so I am attaching two screenshots, one of them tells you about the "App.js" and next one is the output of the react project.
+	Because of so many files in creating the react app the git is not supporting to upload all the files and folders related to the react 
+so I am attaching two screenshots, one of them tells you about the "App.js" and next one is the output of the react project.
 
 I can't include node_modules because of that folder contains lots of files which have downloaded for react. 
