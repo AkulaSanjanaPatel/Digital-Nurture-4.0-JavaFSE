@@ -1,0 +1,33 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.column {
+  flex: 1;
+  padding: 0 20px;
+  border-left: 3px solid green;
+}
+
+.column:first-child {
+  border-left: none;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.column strong {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.column p {
+  margin: 0 0 10px 0;
+}
